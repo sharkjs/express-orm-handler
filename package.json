@@ -1,6 +1,6 @@
 {
 	"name": "express-orm-handler",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"description": "Express+ORM2 handler generator",
 	"github": "Nami-Doc/express-orm-handler"
 }
